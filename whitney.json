@@ -1,270 +1,139 @@
 {
 	"title": {
 		"media": {
-			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
-			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+			"url": "https://iticollege.edu/wp-content/uploads/2024/07/Machine-Learning-Basics.jpg"
+			
 		},
 		"text": {
-			"headline": "Digital Timeline<br/> 1963 - 2012",
-			"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+			"headline": "Digital Timeline - History of Machine Learning <br/> 31S1",
+			"text": "<p>Machine learning's legacy dates from the early beginnings of neural networks to recent advancements in generative AI that democratize new and controversial ways to create content.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+				"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wO17oF6ndZVYRhXR9MgRm0Rlvvcuws6Jhdmn_m1eOOQXX1DHAb0zHD8nF2wa2NVa_vs5IwiYNLgMcHTmY1vo0bcpQUepOYbwURgq-LI5ZoNoOcPDcTGz65cylAJW3_z9-colRw/s282/Mccullochpitts.jpeg"
 			},
-			"start_date": {
-				"month": "8",
-				"day": "9",
-				"year": "1963"
-			},
-			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+			"start_date": { "year": "1943"},
+			"text": 
+			{
+				"headline": "First Mathematical Model of Neural Networks",
+				"text": "<p>In 1943, Warren McCulloch and Walter Pitts published *“A Logical Calculus of the Ideas Imminent in Nervous Activity,”* introducing the first mathematical model of a neural network. Their work, inspired by Alan Turing, showed how simple connected elements could perform powerful computations, later influencing John von Neumann, Norbert Wiener, and others.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
-				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+				"url": "https://youtu.be/dDTf7QYUq48"
 			},
-			"start_date": {
-				"year": "1978"
-			},
+			"start_date": { "year": "1949" },
 			"text": {
-				"headline": "First Recording",
-				"text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
+				"headline": "Hebb’s Learning Theory",
+				"text": "<p>Donald Hebb published <i>The Organization of Behavior</i>, a groundbreaking book on brain activity and neural networks. His theory explained how behavior and thought can be linked to changes in neural pathways.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/_gvJCCZzmro",
-				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-				"credit": "EbonyJet"
+				"url": "https://www.investopedia.com/thmb/gHwmBhHZJkOcwJiIFAK0gBOIxqU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/turing-test.asp-FINAL-2-8e8b31263317454c828c2ca8ec518bbd.png",
+				"caption": "The Turing Test",
+				"credit": "Investopedia"
 			},
-			"start_date": {
-				"year": "1978"
-			},
+			"start_date": { "year": "1950" },
 			"text": {
-				"headline": "The Early Years",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "The Turing Test",
+				"text": "<p>Alan Turing introduced the Turing Test in his paper <i>Computing Machinery and Intelligence</i>. This test proposed a way to measure whether a machine could exhibit intelligent behavior indistinguishable from humans.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/H7_sqdkaAfo",
-				"caption": "I'm Every Women as performed by Whitney Houston.",
-				"credit": "Arista Records"
+				"url": "https://opendatascience.com/wp-content/uploads/2018/04/History-of-NN-1-CW-298x300.png"
 			},
-			"start_date": {
-				"year": "1978"
-			},
+			"start_date": { "year": "1951" },
 			"text": {
-				"headline": "Early Album Credits",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "SNARC: First Artificial Neural Network",
+				"text": "<p>In 1951, Marvin Minsky and Dean Edmonds built the Stochastic Neural Analog Reinforcement Calculator (SNARC), the first artificial neural network machine. Using 40 analog neurons with capacitors and potentiometers, it learned to solve a virtual maze, pioneering the concept of machine learning through reinforcement.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/A4jGzNm2yPI",
-				"caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
-				"credit": "Sony Music Entertainment"
+				"url": "https://blogs-images.forbes.com/gilpress/files/2016/08/ai50160.jpg",
+				"caption": "Five of the attendees of the 1956 Dartmouth Summer Research Project on Artificial Intelligence reunited at the July 2006 AI@50 conference. From left: Trenchard More, John McCarthy, Marvin Minsky, Oliver Selfridge, and Ray Solomonoff. (Photo by Joseph Mehling)",	
+				"credit": "Forbes"
 			},
-			"start_date": {
-				"year": "1983"
-			},
+			"start_date": { "year": "1956" },
 			"text": {
-				"headline": "Signed",
-				"text": "Houston is signed to Arista Records after exec Clive Davis sees her performing on stage with her mother in New York."
+				"headline": "Birth of Artificial Intelligence",
+				"text": "<p>On August 31, 1955, John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon coined the term “artificial intelligence” in a research proposal for the Dartmouth workshop. Held in 1956, this event marked the official birth of AI, aiming to make machines use language, form concepts, solve human-like problems, and improve themselves.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/m3-hY-hlhBg",
-				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
-				"credit": "Arista Records Inc."
+				"url": "https://i.insider.com/5a14a5033dbef4a7748b72ed?width=800&format=jpeg&auto=webp"
 			},
-			"start_date": {
-				"year": "1985"
-			},
+			"start_date": { "year": "1959" },
 			"text": {
-				"headline": "Debut",
-				"text": "Whitney Houston's self titled first release sold over 12 million copies in the U.S. and included the hit singles 'How Will I Know,' 'You Give Good Love,' 'Saving All My Love For You' and 'Greatest Love of All.'"
+				"headline": "Term 'Machine Learning' Coined",
+				"text": "<p>Arthur Samuel coined the term <i>machine learning</i> when he showed that a computer could be programmed to outperform its programmer. Around the same time, Oliver Selfridge’s <i>“Pandemonium”</i> introduced a model that adaptively improved itself to recognize patterns in data.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/v0XuiMX1XHg",
-				"caption": "Dionne Warwick gleefully announces cousin, Whitney Houston, the winner of the Best Female Pop Vocal Performance for the song Saving All My Love.",
-				"credit": "<a href='http://grammy.org'>The Recording Academy</a>"
+				"url": "https://youtu.be/zhxNI7V2IxM"
 			},
-			"start_date": {
-				"year": "1986"
-			},
+			"start_date": { "year": "1966" },
 			"text": {
-				"headline": "'The Grammys'",
-				"text": "In 1986 Houston won her first Grammy for the song Saving All My Love. In total she has won six Grammys, the last of which she won in 1999 for It's Not Right But It's Okay."
+				"headline": "Eliza & Shakey the Robot",
+				"text": "<p>In 1966, Joseph Weizenbaum created <i>Eliza</i>, a program that simulated human-like conversations. That same year, the Stanford Research Institute developed <i>Shakey</i>, the first mobile intelligent robot, laying the groundwork for self-driving cars and drones.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/eH3giaIzONA",
-				"caption": "I Wanna Dance With Somebody",
-				"credit": "Arista Records Inc."
+				"url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*QBN0np_l26i_URnH"
 			},
-			"start_date": {
-				"year": "1987"
-			},
+			"start_date": { "year": "1969" },
 			"text": {
-				"headline": "'Whitney'",
-				"text": "Multiplatinum second album sells more than 20 million copies worldwide. With 'Whitney', Houston became the first female artist to produce four number 1 singles on one album including \"I Wanna Dance With Somebody,' 'Didn't We Almost Have It All,' 'So Emotional' and 'Where Do Broken Hearts Go.'"
+				"headline": "Backpropagation & Perceptrons",
+				"text": "<p>In 1969, Arthur Bryson and Yu-Chi Ho introduced a <b>backpropagation algorithm</b> for multilayer neural networks, laying the foundation for deep learning. That same year, Marvin Minsky and Seymour Papert’s book <i>Perceptrons</i> highlighted the limits of simple networks, leading to a decline in neural network research and a rise in symbolic AI.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/96aAx0kxVSA",
-				"caption": "\"One Moment In Time\" - Theme song to the 1988 Seoul Olympics",
-				"credit": "Arista Records Inc."
+				"url": "https://askpromotheus.ai/wp-content/uploads/2025/04/HINTON-01web-video.jpg"
 			},
-			"start_date": {
-				"year": "1988"
-			},
+			"start_date": { "year": "2006" },
 			"text": {
-				"headline": "\"One Moment In Time\"",
-				"text": "The artist's fame continues to skyrocket as she records the theme song for the Seoul Olympics, 'One Moment In Time.'"
+				"headline": "Deep Learning",
+				"text": "<p>In 2006, Geoffrey Hinton coined the term <b>deep learning</b> to describe algorithms that enable computers to recognize objects and text in images and videos. This marked a major breakthrough in advancing modern AI capabilities.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
+				"url": "https://www.harvardmagazine.com/sites/default/files/img/article/0919/hm_post_9.18.2019.jpg"
 			},
-			"start_date": {
-				"year": "1989"
-			},
+			"start_date": { "year": "1989" },
 			"text": {
-				"headline": "Bobby Brown",
-				"text": "Houston and Brown first meet at the Soul Train Music Awards. In an interview with Rolling Stone Magazine, Houston admitted that it was not love at first sight. She turned down Brown's first marriage proposal but eventually fell in love with him."
+				"headline": "Convolutional Neural Networks (CNNs)",
+				"text": "<p>In 1989, Yann LeCun, Yoshua Bengio, and Patrick Haffner demonstrated convolutional neural networks (CNNs) for recognizing handwritten characters. This proved that neural networks could successfully tackle real-world applications.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/5Fa09teeaqs",
-				"caption": "CNN looks back at Houston's iconic performance of the national anthem at Superbowl XXV.",
-				"credit": "CNN"
+				"url": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/876ec5406900.jpg"
 			},
-			"start_date": {
-				"year": "1991"
-			},
+			"start_date": { "year": "2013" },
 			"text": {
-				"headline": "Super Bowl",
-				"text": "Houston's national anthem performance captures the hearts and minds of Americans ralllying behind soldiers in the Persian Guf War."
+				"headline": "Deep Reinforcement Learning & word2vec",
+				"text": "<p>In 2013, DeepMind introduced deep reinforcement learning, enabling a CNN to learn through rewards and surpass human experts in games. That same year, Tomas Mikolov and colleagues at Google developed word2vec, which automatically captured semantic relationships between words.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/h9rCobRl-ng",
-				"caption": "\"Run To You\" from the 1992 \"Bodyguard\" soundtrack..",
-				"credit": "Arista Records"
+				"url": "https://www.journal-publishing.com/wp-content/uploads/2019/09/References_Colorful_Texture_Blocks-950x640.jpg"
 			},
-			"start_date": {
-				"year": "1992"
-			},
-			"text": {
-				"headline": "\"The Bodyguard\"",
-				"text": "Houston starred opposite Kevin Costner in the box office hit, The Bodyguard. The soundtrack to the movie sold over 44 million copies worldwide  garnering 3 Grammy's for the artist."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/5cDLZqe735k",
-				"caption": "Bobby Brown performing \"My Prerogrative,\" from his \"Don't be Cruel\" solo album. Bobby Brown first became famous with the R&B group, New Edition.",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "1992"
-			},
-			"text": {
-				"headline": "Married Life",
-				"text": "<p>After three years of courtship, Houston marries New Edition singer Bobby Brown. Their only child Bobbi Kristina Brown was born in 1993.</p><p>In 2003 Brown was charged with domestic violence after police responded to a domestic violence call. Houston and Brown were featured in the reality show, \"Being bobby Brown,\" and divorced in 2007.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "//upload.wikimedia.org/wikipedia/commons/d/dd/ABC_-_Good_Morning_America_-_Diane_Sawyer.jpg",
-				"caption": "Diane Sawyer ",
-				"credit": "flickr/<a href='http://www.flickr.com/photos/23843757@N00/194521206/'>Amanda Benham</a>"
-			},
-			"start_date": {
-				"year": "2002"
-			},
-			"text": {
-				"headline": "Crack is Whack",
-				"text": "<p>Houston first publicly admitted to drug use in an interview with Diane Sawyer. The singer coined the term \"Crack is Whack,\" saying that she only used more expensive drugs.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/KLk6mt8FMR0",
-				"caption": "Addiction expert, Dr. Drew, talks about Whitney's death and her struggle with addiction.",
-				"credit": "CNN"
-			},
-			"start_date": {
-				"year": "2004"
-			},
-			"text": {
-				"headline": "Rehab",
-				"text": "<p>Houston entered rehab several times beginning in 2004. She declared herself drug free in an interview with Oprah Winfrey in 2009 but returned to rehab in 2011.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "2005"
-			},
-			"text": {
-				"headline": "Being Bobby Brown",
-				"text": "<p>Being Bobby Brown was a reality show starring Brown and wife Whitney Houston. Houston refused to sign for a second season. A clip of her telling Brown to \"Kiss my ass,\" became a running gag on The Soup.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "2010"
-			},
-			"text": {
-				"headline": "A Rocky Comeback",
-				"text": "<p>Houston's comeback tour is cut short due to a diminished voice damaged by years of smoking. She was reportedly devastated at her inability to perform like her old self.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "//twitter.com/Blavity/status/851872780949889024",
-				"caption": "Houston, performing on Good Morning America in 2009.",
-				"credit": "<a href='http://commons.wikimedia.org/wiki/File%3AFlickr_Whitney_Houston_performing_on_GMA_2009_4.jpg'>Asterio Tecson</a> via Wikimedia"
-			},
-			"start_date": {
-				"month": "2",
-				"day": "11",
-				"year": "2012"
-			},
-			"text": {
-				"headline": "Whitney Houston<br/> 1963-2012",
-				"text": "<p>Houston, 48, was discovered dead at the Beverly Hilton Hotel on  on Feb. 11, 2012. She is survived by her daughter, Bobbi Kristina Brown, and mother, Cissy Houston.</p>"
+			"start_date": { "year": "2025" },
+			"text": 
+			{
+				"headline": "REFERENCES",
+				"text": "<p>Karjian, R. (2024, June 13). History and evolution of machine learning: A timeline. TechTarget. Retrieved from <a href='https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline'>https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline</a><br><br>Norman, J. M. (n.d.). Marvin Minsky’s SNARC, possibly the first artificial self-learning machine [Web log post]. History of Information. Retrieved from <a href='https://www.historyofinformation.com/detail.php?entryid=782'>https://www.historyofinformation.com/detail.php?entryid=782</a><br><br>History of AI project. (n.d.). SNARC. Retrieved from <a href='https://historyof.ai/snarc/'>https://historyof.ai/snarc/</a><br><br>Press, G. (2016, August 28). Artificial intelligence defined as a new research discipline – This week in tech history. Forbes. Retrieved from <a href='https://www.forbes.com/sites/gilpress/2016/08/28/artificial-intelligence-defined-as-a-new-research-discipline-this-week-in-tech-history/'>https://www.forbes.com/sites/gilpress/2016/08/28/artificial-intelligence-defined-as-a-new-research-discipline-this-week-in-tech-history/</a></p>"
 			}
 		}
 	]
